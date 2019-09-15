@@ -1,6 +1,6 @@
 # Kickstarter Crowdfunding Analysis
 
-This project involved using third-party collected data from 4000 Kickstarter Crowdfunding projects to perform various analyses, as well as drawing conclusions and making observations. It contains the following files:
+This project involved using third-party collected data from 4000 Kickstarter Crowdfunding projects to perform various analyses, as well as making observations and drawing conclusions. It contains the following files:
 
 1. [Kickstarter Crowdfunding Data Excel Document](https://github.com/mjknj18/Kickstarter-Crowdfunding-Analysis/blob/master/Kickstarter_Crowdfunding.xlsx)
 2. [Analysis & Observation Word Document](https://github.com/mjknj18/Kickstarter-Crowdfunding-Analysis/blob/master/Kickstarter%20Crowdfunding%20Analysis%20%26%20Observations.docx) 
@@ -23,15 +23,15 @@ Knowledge of Excel conditional formatting, pivot tables, and plotting functions.
 ### Instructions
 
 1. Select the desired analysis sheet of the four presented in the document overview.
-2. Use the drop down menus in the upper left to filter the data where appropriate.
-3. Use the drop down menus in the pivot tables to continue to perform further data reduction as necessary.
+2. Use the drop-down menus in the upper left to filter the data where appropriate.
+3. Use the drop-down menus in the pivot tables to perform further data reduction as necessary.
 
 No modifications should be made to the raw data.
 
 ### Output
 
-The graphical displays will autmatically adjust based on selections made in the drop down menus.
+The associated plots will automatically adjust based on selections made in the drop-down menus.
 
 ## Analysis & Observation Word Document
 
-Presents short summary of several conclusions that can be drawn from the dataset, as well as discussion of associated limitations. Recommends several different ways of organizing, filtering, and visualizing the data for future analysis.
+Presents short summary of several conclusions that can be drawn from the dataset, as well as discussion of associated limitations. Recommends additional ways of organizing, filtering, and visualizing the data for future analysis.
