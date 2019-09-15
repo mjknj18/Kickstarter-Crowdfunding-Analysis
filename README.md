@@ -30,7 +30,7 @@ No modifications should be made to the raw data.
 
 ### Output
 
-The associated plots will automatically adjust based on selections made in the drop-down menus.
+The pivot tables and associated plots will automatically adjust based on selections made in the drop-down menus.
 
 ## Analysis & Observation Word Document
 
