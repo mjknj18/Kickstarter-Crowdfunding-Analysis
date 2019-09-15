@@ -33,3 +33,5 @@ No modifications should be made to the raw data.
 The graphical displays will autmatically adjust based on selections made in the drop down menus.
 
 ## Analysis & Observation Word Document
+
+Presents short summary of several conclusions that can be drawn from the dataset, as well as discussion of associated limitations. Recommends several different ways of organizing, filtering, and visualizing the data for future analysis.
