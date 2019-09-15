@@ -14,7 +14,22 @@ Analyzes data from sampled Kickstarter Corwdfunding projects through the use of 
 1. Project Outcome versus Project Category (Filtered by Country)
 2. Project Outcome versus Project Sub-Category (Filtered by Country & Project Category)
 3. Project Outcome versus Month (Filtered by Category & Year)
-4. Project Outcome Percentage versus Monetary Goal Range
+4. Project Outcome Percentage versus Monetary Goal Range (No Filtering Available)
 
-###Prerequisites
+### Prerequisites
 
+Knowledge of Excel conditional formatting, pivot tables, and plotting functions.
+
+### Instructions
+
+1. Select the desired analysis sheet of the four presented in the document overview.
+2. Use the drop down menus in the upper left to filter the data where appropriate.
+3. Use the drop down menus in the pivot tables to continue to perform further data reduction as necessary.
+
+No modifications should be made to the raw data.
+
+### Output
+
+The graphical displays will autmatically adjust based on selections made in the drop down menus.
+
+## Analysis & Observation Word Document
