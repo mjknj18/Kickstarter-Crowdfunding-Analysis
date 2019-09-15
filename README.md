@@ -9,3 +9,12 @@ Detailed instructions are provided below this overview.
 
 ## Kickstarter Crowdfunding Data Excel Document
 
+Analyzes data from sampled Kickstarter Corwdfunding projects through the use of pivot tables and graphical representations. Specific analyses are presented for:
+
+1. Project Outcome versus Project Category (Filtered by Country)
+2. Project Outcome versus Project Sub-Category (Filtered by Country & Project Category)
+3. Project Outcome versus Month (Filtered by Category & Year)
+4. Project Outcome Percentage versus Monetary Goal Range
+
+###Prerequisites
+
